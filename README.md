@@ -1,10 +1,9 @@
-<h2 align="left">Hi 👋! My name is Zulfiqar Ali and I'm a Full Stack Developer from Pakistan</h2>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar.png" alt="Zulfiqar Ali"  />
 </div>
+
+<h2 align="left">Hi 👋! My name is Zulfiqar Ali and I'm a Full Stack Developer from Pakistan</h2>
 
 ###
 
