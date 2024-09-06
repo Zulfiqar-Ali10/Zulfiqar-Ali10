@@ -19,7 +19,6 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif"  />
 
 ###
-<br>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -72,8 +71,6 @@
 </div>
 
 ###
-
-<br>
 
 <h2 align="left">Connect With Me</h2>
 
