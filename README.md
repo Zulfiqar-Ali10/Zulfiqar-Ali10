@@ -14,17 +14,16 @@
 
 ###
 
-<div> </div> 
-<div> </div>
+<br>
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif"  />
 
 ###
-<div> </div>
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 
-<div> </div>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -74,11 +73,11 @@
 
 ###
 
-<div> </div>
+<br>
 
 <h2 align="left">Connect With Me</h2>
 
-<div> </div>
+<br>
 
 ###
 
