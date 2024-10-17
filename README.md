@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zulfiqar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Zulfiqar-Ali10" />
+</p>
+
+
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-ali.png" alt="Zulfiqar Ali"  />
