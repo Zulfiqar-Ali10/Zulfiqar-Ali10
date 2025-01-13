@@ -1,13 +1,10 @@
-<div display="flex">
-  <p align="left"> 
-  <img src="https://user-badge.committers.top/pakistan/Zulfiqar-Ali10.svg" alt="Zulfiqar-Ali10 Committers Badge" />
-</p>
-
-###
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Zulfiqar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Zulfiqar-Ali10" />
-</p>
+<div align="center">
+  <p> 
+    <img src="https://user-badge.committers.top/pakistan/Zulfiqar-Ali10.svg" alt="Zulfiqar-Ali10 Committers Badge" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Zulfiqar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Zulfiqar-Ali10" />
+  </p>
 </div>
 
 ###
