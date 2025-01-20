@@ -2,9 +2,9 @@
    <a>
     <img src="https://komarev.com/ghpvc/?username=Zulfiqar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Zulfiqar-Ali10" />
   </a>
-  <a href="https://committers.top/pakistan.html"> 
+ <a href="https://committers.top/pakistan.html"> 
     <img src="https://user-badge.committers.top/pakistan/Zulfiqar-Ali10.svg" alt="Zulfiqar-Ali10 Committers Badge" />
-  </a>
+</a>
 </div>
 
 ###
