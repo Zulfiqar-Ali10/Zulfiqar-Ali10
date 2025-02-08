@@ -88,7 +88,7 @@
   <a href="https://www.youtube.com/@Zulfiqar-Ali1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/zulfiqar-ali10" target="_blank">
+  <a href="https://www.linkedin.com/in/zulfiqar-ali-3b9b62348/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="zulfiqar.dev01@gmail.com" target="_blank">
