@@ -7,7 +7,7 @@
 </a>
 </div>
 
-#####
+####
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-ali.png" alt="Zulfiqar Ali"  />
