@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-ali.png" alt="Zulfiqar Ali"  />
+  <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar.banner.png" alt="Zulfiqar Ali"  />
 </div>
 
 <h1 align="left">Hi 👋! My name is Zulfiqar Ali and I'm a Full Stack Developer from Pakistan</h1>
