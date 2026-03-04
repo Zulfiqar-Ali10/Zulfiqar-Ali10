@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar.banner.png" alt="Zulfiqar Ali"  />
 </div>
 
-<h1 align="left">Hi 👋! My name is Zulfiqar Ali and I'm a Full Stack + AI Engineer from Pakistan</h1>
+<h1 align="left">Hi 👋! My name is Zulfiqar Ali and I'm a Full Stack | AI Engineer from Pakistan</h1>
 
 ####
 
